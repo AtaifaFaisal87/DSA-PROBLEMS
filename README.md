@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1480-running-sum-of-1d-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
