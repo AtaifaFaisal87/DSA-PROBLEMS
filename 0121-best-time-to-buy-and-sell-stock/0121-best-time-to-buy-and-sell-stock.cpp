@@ -1,27 +1,28 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int max=INT_MIN;
-        int min=INT_MAX;
-     
-        int profit;
+   
+    int maxProfit = INT_MIN;
+    int minPrice = INT_MAX;
 
-        for(int i=0;i<prices.size();i++)
+    for(int i = 0; i < prices.size(); i++)
+    {
+        // Find the lowest buying price seen so far
+        if(prices[i] < minPrice)
         {
-            if(prices[i]<min)
-            {
-                min=prices[i];
-            }
-        
-        profit=prices[i]-min;
-
-        if(max< profit)
-        {
-            max=profit;
+            minPrice = prices[i];
         }
 
-        }
+        // Calculate profit if we sell today
+        int profit = prices[i] - minPrice;
 
-        return max;
+        // Update maximum profit
+        if(profit > maxProfit)
+        {
+            maxProfit = profit;
+        }
+    }
+
+    return maxProfit;
     }
 };
