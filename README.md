@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0912-sort-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1480-running-sum-of-1d-array) |
@@ -44,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Prefix Sum
 |  |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -93,4 +97,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0744-find-smallest-letter-greater-than-target) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
