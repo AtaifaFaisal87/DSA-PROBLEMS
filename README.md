@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2469-convert-the-temperature](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2469-convert-the-temperature) |
 | [3536-maximum-product-of-two-digits](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
