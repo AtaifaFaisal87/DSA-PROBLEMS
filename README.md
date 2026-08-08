@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0136-single-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0912-sort-an-array) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0977-squares-of-a-sorted-array) |
@@ -134,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0206-reverse-linked-list) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
