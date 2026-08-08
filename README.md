@@ -161,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
