@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1929-concatenation-of-array) |
+| [3731-find-missing-elements](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3731-find-missing-elements](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3945-digit-frequency-score) |
 ## Divide and Conquer
 |  |
