@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0217-contains-duplicate) |
+| [0228-summary-ranges](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0704-binary-search) |
