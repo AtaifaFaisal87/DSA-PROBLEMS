@@ -51,6 +51,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -179,6 +181,7 @@
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
