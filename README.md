@@ -151,6 +151,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0367-valid-perfect-square) |
@@ -209,4 +210,8 @@
 | ------- |
 | [0584-find-customer-referee](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1757-recyclable-and-low-fat-products) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
