@@ -137,6 +137,7 @@
 | ------- |
 | [0015-3sum](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0075-sort-colors) |
@@ -190,6 +191,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0206-reverse-linked-list) |
