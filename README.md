@@ -117,6 +117,7 @@
 | [0268-missing-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0771-jewels-and-stones](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3731-find-missing-elements) |
@@ -246,5 +247,6 @@
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1108-defanging-an-ip-address) |
 <!---LeetCode Topics End-->
