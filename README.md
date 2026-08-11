@@ -40,6 +40,7 @@
 | [1929-concatenation-of-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3701-compute-alternating-sum](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -138,6 +139,7 @@
 | [1929-concatenation-of-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3701-compute-alternating-sum](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3701-compute-alternating-sum) |
 ## Two Pointers
 |  |
 | ------- |
