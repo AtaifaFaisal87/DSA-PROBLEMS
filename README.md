@@ -61,6 +61,7 @@
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3536-maximum-product-of-two-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3945-digit-frequency-score](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
@@ -220,6 +221,7 @@
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Database
 |  |
 | ------- |
