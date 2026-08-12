@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0066-plus-one) |
@@ -168,6 +169,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0278-first-bad-version) |
