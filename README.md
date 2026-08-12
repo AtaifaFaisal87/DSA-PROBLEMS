@@ -113,6 +113,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0268-missing-number) |
@@ -156,6 +157,7 @@
 | [0075-sort-colors](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
@@ -212,6 +214,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0237-delete-node-in-a-linked-list) |
