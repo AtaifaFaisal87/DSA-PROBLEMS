@@ -42,6 +42,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3467-transform-array-by-parity) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3925-concatenate-array-with-reverse) |
@@ -66,6 +67,7 @@
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3658-gcd-of-odd-and-even-sums) |
