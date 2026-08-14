@@ -127,6 +127,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0771-jewels-and-stones](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3945-digit-frequency-score) |
@@ -261,4 +262,9 @@
 | ------- |
 | [0771-jewels-and-stones](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1108-defanging-an-ip-address) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
