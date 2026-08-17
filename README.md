@@ -27,6 +27,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0724-find-pivot-index) |
@@ -127,6 +128,7 @@
 | [0268-missing-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
