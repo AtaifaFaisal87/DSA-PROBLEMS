@@ -34,6 +34,7 @@
 | [0724-find-pivot-index](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -99,6 +100,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -181,6 +183,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
