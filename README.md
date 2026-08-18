@@ -146,6 +146,7 @@
 | [0268-missing-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0383-ransom-note) |
 | [3467-transform-array-by-parity](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3467-transform-array-by-parity) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -291,6 +293,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0771-jewels-and-stones) |
