@@ -35,6 +35,7 @@
 | [0724-find-pivot-index](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0877-stone-game](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0922-sort-array-by-parity-ii) |
@@ -68,6 +69,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 | [0367-valid-perfect-square](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -324,4 +327,16 @@
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
