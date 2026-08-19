@@ -299,6 +299,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0392-is-subsequence) |
