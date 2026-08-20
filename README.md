@@ -55,6 +55,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -186,6 +187,7 @@
 | [1929-concatenation-of-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
