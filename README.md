@@ -13,6 +13,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0075-sort-colors) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0231-power-of-two) |
@@ -145,6 +147,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0048-rotate-image) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1672-richest-customer-wealth) |
