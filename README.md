@@ -56,6 +56,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1672-richest-customer-wealth](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -147,6 +148,7 @@
 | [0724-find-pivot-index](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1732-find-the-highest-altitude) |
 ## Matrix
 |  |
 | ------- |
