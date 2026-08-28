@@ -52,6 +52,7 @@
 | [1470-shuffle-the-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1672-richest-customer-wealth](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1672-richest-customer-wealth) |
@@ -334,6 +335,7 @@
 | [0412-fizz-buzz](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1528-shuffle-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3110-score-of-a-string) |
 ## Sliding Window
