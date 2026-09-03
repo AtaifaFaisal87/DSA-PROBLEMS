@@ -63,6 +63,7 @@
 | [1929-concatenation-of-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -139,6 +140,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3731-find-missing-elements) |
@@ -239,6 +241,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -254,6 +257,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Merge Sort
 |  |
 | ------- |
