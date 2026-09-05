@@ -76,6 +76,7 @@
 | [3731-find-missing-elements](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
@@ -161,6 +162,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
 |  |
 | ------- |
