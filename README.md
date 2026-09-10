@@ -111,6 +111,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2469-convert-the-temperature) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -418,4 +419,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
