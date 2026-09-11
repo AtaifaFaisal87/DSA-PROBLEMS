@@ -74,6 +74,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -200,6 +201,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3945-digit-frequency-score) |
@@ -306,6 +308,7 @@
 | [0231-power-of-two](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -423,4 +426,8 @@
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
