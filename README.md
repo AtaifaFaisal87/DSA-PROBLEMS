@@ -68,6 +68,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2942-find-words-containing-character](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -384,6 +385,7 @@
 | [1108-defanging-an-ip-address](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2942-find-words-containing-character](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3110-score-of-a-string) |
 ## Sliding Window
