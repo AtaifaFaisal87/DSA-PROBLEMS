@@ -97,6 +97,7 @@
 | [0002-add-two-numbers](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0066-plus-one) |
+| [0168-excel-sheet-column-title](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0268-missing-number) |
@@ -369,6 +370,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0168-excel-sheet-column-title) |
 | [0383-ransom-note](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0412-fizz-buzz) |
