@@ -71,6 +71,7 @@
 | [2956-find-common-elements-between-two-arrays](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -117,6 +118,7 @@
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3516-find-closest-person) |
