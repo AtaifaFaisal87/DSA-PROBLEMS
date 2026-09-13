@@ -40,6 +40,7 @@
 | [0724-find-pivot-index](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0867-transpose-matrix](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0912-sort-an-array) |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0048-rotate-image) |
+| [0867-transpose-matrix](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1672-richest-customer-wealth) |
@@ -233,6 +235,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0657-robot-return-to-origin) |
+| [0867-transpose-matrix](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2011-final-value-of-variable-after-performing-operations) |
