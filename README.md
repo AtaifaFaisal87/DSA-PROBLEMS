@@ -108,6 +108,7 @@
 | [0367-valid-perfect-square](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -437,6 +438,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0836-rectangle-overlap) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Enumeration
 |  |
