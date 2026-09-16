@@ -48,6 +48,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -159,6 +160,7 @@
 | [0912-sort-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -309,6 +311,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Recursion
 |  |
@@ -355,6 +358,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1051-height-checker) |
 ## Number Theory
 |  |
 | ------- |
