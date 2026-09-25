@@ -49,6 +49,7 @@
 | [0941-valid-mountain-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -168,6 +169,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -215,6 +217,7 @@
 | [0383-ransom-note](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0771-jewels-and-stones) |
+| [1122-relative-sort-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -326,6 +329,7 @@
 | ------- |
 | [0912-sort-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Recursion
 |  |
@@ -368,11 +372,13 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1122-relative-sort-array) |
 ## Number Theory
 |  |
 | ------- |
