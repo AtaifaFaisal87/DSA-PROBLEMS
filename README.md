@@ -112,6 +112,7 @@
 | [0171-excel-sheet-column-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0367-valid-perfect-square) |
@@ -249,6 +250,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0867-transpose-matrix) |
@@ -383,6 +385,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
