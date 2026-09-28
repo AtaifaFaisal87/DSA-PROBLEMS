@@ -242,6 +242,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0383-ransom-note) |
+| [1603-design-parking-system](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1603-design-parking-system) |
 | [3467-transform-array-by-parity](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3467-transform-array-by-parity) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -255,6 +256,7 @@
 | [0657-robot-return-to-origin](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1389-create-target-array-in-the-given-order) |
+| [1603-design-parking-system](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -478,4 +480,8 @@
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
