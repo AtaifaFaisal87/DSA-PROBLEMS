@@ -121,6 +121,7 @@
 | [0633-sum-of-square-numbers](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0877-stone-game) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1588-sum-of-all-odd-length-subarrays) |
