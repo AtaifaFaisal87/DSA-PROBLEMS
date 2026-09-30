@@ -41,6 +41,7 @@
 | [0724-find-pivot-index](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0804-unique-morse-code-words](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0804-unique-morse-code-words) |
 | [0867-transpose-matrix](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0905-sort-array-by-parity) |
@@ -221,6 +222,7 @@
 | [0383-ransom-note](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0804-unique-morse-code-words) |
 | [1122-relative-sort-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -423,6 +425,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0804-unique-morse-code-words) |
 | [1108-defanging-an-ip-address](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2011-final-value-of-variable-after-performing-operations) |
