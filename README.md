@@ -415,6 +415,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0168-excel-sheet-column-title) |
@@ -445,6 +446,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0234-palindrome-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
@@ -490,4 +492,8 @@
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1603-design-parking-system) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
