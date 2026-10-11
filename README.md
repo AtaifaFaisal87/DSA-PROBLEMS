@@ -37,6 +37,7 @@
 | [0485-max-consecutive-ones](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -259,6 +260,7 @@
 | [0258-add-digits](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1603-design-parking-system) |
@@ -448,6 +450,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
