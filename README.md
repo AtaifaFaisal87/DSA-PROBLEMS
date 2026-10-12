@@ -429,6 +429,7 @@
 | [0657-robot-return-to-origin](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0804-unique-morse-code-words) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -451,6 +452,7 @@
 | [0020-valid-parentheses](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
