@@ -69,6 +69,7 @@
 | [1672-richest-customer-wealth](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -228,6 +229,7 @@
 | [1122-relative-sort-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1748-sum-of-unique-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -250,6 +252,7 @@
 | [0169-majority-element](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0383-ransom-note) |
 | [1603-design-parking-system](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1603-design-parking-system) |
+| [1748-sum-of-unique-elements](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1748-sum-of-unique-elements) |
 | [3467-transform-array-by-parity](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3467-transform-array-by-parity) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
