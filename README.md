@@ -93,6 +93,7 @@
 | [3701-compute-alternating-sum](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3731-find-missing-elements) |
+| [3866-first-unique-even-element](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3904-smallest-stable-index-ii) |
@@ -238,6 +239,7 @@
 | [3668-restore-finishing-order](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3731-find-missing-elements) |
+| [3866-first-unique-even-element](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3945-digit-frequency-score) |
 ## Divide and Conquer
 |  |
@@ -254,6 +256,7 @@
 | [1603-design-parking-system](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1603-design-parking-system) |
 | [1748-sum-of-unique-elements](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1748-sum-of-unique-elements) |
 | [3467-transform-array-by-parity](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3467-transform-array-by-parity) |
+| [3866-first-unique-even-element](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3866-first-unique-even-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
