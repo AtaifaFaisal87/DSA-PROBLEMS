@@ -77,6 +77,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2942-find-words-containing-character) |
@@ -257,6 +258,7 @@
 | [0383-ransom-note](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0383-ransom-note) |
 | [1603-design-parking-system](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1603-design-parking-system) |
 | [1748-sum-of-unique-elements](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1748-sum-of-unique-elements) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3467-transform-array-by-parity](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3467-transform-array-by-parity) |
 | [3866-first-unique-even-element](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3866-first-unique-even-element) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -333,6 +335,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Merge Sort
 |  |
