@@ -35,6 +35,7 @@
 | [0414-third-maximum-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0682-baseball-game) |
@@ -126,6 +127,7 @@
 | [0367-valid-perfect-square](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0877-stone-game) |
@@ -174,6 +176,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/0912-sort-an-array) |
