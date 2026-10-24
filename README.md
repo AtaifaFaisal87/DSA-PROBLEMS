@@ -138,6 +138,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -449,6 +450,7 @@
 | [1108-defanging-an-ip-address](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2409-count-days-spent-together](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/AtaifaFaisal87/DSA-PROBLEMS/tree/master/3110-score-of-a-string) |
